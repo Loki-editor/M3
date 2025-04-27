@@ -1,3 +1,5 @@
+# Name : LOKESH S
+# Register no : 212224240079
 # EX-11-EMI-CALCULATOR
 
 ## AIM
